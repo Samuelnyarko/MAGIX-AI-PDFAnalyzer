@@ -1,0 +1,12 @@
+langchain
+PyPDF2
+python-dotenv
+streamlit
+faiss-cpu
+altair
+openai
+jupyter
+notebook
+nbconvert
+
+
